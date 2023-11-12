@@ -2,7 +2,7 @@
 
 💻 I’m a Front End Developer with a keen interest for front-end development.
 
-🧰 Junior Front End Developer, currently learning Next.JS and Developing SwissFish Platform
+🧰 Junior Front End Developer, currently learning Next.JS and Developing SwissFish Platform @Invicto Solution
 
 ⚡Fun fact: Traveling is life
 
